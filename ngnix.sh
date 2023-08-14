@@ -12,3 +12,9 @@ sudo systemctl enable nginx
 
 # Display Nginx status
 sudo systemctl status nginx
+
+# give permission
+# chmod +x install_nginx.sh
+
+# RUN
+# ./install_nginx.sh
