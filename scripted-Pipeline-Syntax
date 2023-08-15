@@ -1,0 +1,13 @@
+node {
+    stage('Build') {
+        // Your build steps here
+    }
+    
+    stage('Test') {
+        // Your testing steps here
+    }
+    
+    stage('Deploy') {
+        // Your deployment steps here
+    }
+}
